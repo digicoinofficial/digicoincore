@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Bitcoin Core
+Comment=Connect to the DigiCoin P2P Network
+Exec=digicoin-qt %u
+Terminal=false
+Type=Application
+Icon=digicoin128
+MimeType=x-scheme-handler/digicoin;
+Categories=Office;Finance;
+StartupWMClass=DigiCoin-qt
+Name[en_US]=digicoin-qt

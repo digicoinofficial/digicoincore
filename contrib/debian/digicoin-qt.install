@@ -1,0 +1,6 @@
+usr/local/bin/digicoin-qt usr/bin
+share/pixmaps/digicoin32.xpm usr/share/pixmaps
+share/pixmaps/digicoin16.xpm usr/share/pixmaps
+share/pixmaps/digicoin128.png usr/share/pixmaps
+debian/digicoin-qt.desktop usr/share/applications
+debian/digicoin-qt.protocol usr/share/kde4/services/
